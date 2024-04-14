@@ -1,1 +1,1 @@
-# Juego_Buscaminas
+# juegoBuscaminas
